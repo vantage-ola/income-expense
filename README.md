@@ -1,4 +1,4 @@
-# INCOME_EXPENDITURE
+# INCOME/EXPENDITURE
 Well this is a simple c code my friend in the university asked me to do.
 I wanted to make something he could definitely defend.
 This is just basic input,output and variables topic on c.
