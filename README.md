@@ -13,7 +13,7 @@ No data structures or even a header file...just plain.
 
 ## Todo list
 
-- [] Save info entered to a file(excel,csv or something).
-- [] Create a python or java version of it.
-- [] Implement a good data structure/algorithm for this.
-- [] Later i will try making mobile version of it using ads, kotlin or a suitable language.
+- [x] Save info entered to a file(excel,csv or something).
+- [ ] Create a python or java version of it.
+- [ ] Implement a good data structure/algorithm for this.
+- [ ] Later i will try making mobile version of it using ads, kotlin or a suitable language.
